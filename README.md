@@ -47,3 +47,6 @@ The following output should be produced:
 4: x1 + x2 >= -17
 5: 0 >= -1
 ```
+
+### Acknowledgement ###
+Thanks to @andreiursulean for suggesting the use of Docker (initially, I was using wsl.exe to run the Polymake script).
