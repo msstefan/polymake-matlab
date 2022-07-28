@@ -7,8 +7,8 @@
 The following steps can be used on Windows OS to install Docker and an Archlinux distributiin with the latest Polymake version:
 
 1. Install Docker from the following [link](https://www.docker.com/).
-2. Make a folder on your computer. 
-3. Inside the new folder, create a dockerfile with the following code:
+2. Make a temporary folder on your computer. 
+3. Inside the new folder, create a Dockerfile with the following code:
 ```
 FROM archlinux
 RUN pacman -Syu --noconfirm polymake
