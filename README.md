@@ -1,4 +1,4 @@
-# Using Polymake in MATLAB via Docker
+# Simple usage of Polymake in MATLAB via Docker
 
 ## About Polymake and Docker ##
 > [Polymake](https://polymake.org/doku.php) is open source software for research in polyhedral geometry. It deals with polytopes, polyhedra and fans as well as simplicial complexes, matroids, graphs, tropical hypersurfaces, and other objects. Supported platforms include various flavors of Linux, FreeBSD and Mac OS.
