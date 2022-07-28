@@ -6,7 +6,7 @@
 > [Docker](https://docs.docker.com/get-started/overview/) is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.
 
 ## Installation ##
-The following steps can be used on Windows OS to install Docker and an Archlinux distributiin with the latest Polymake version:
+The following steps can be used on Windows OS to install Docker and an Archlinux distribution with the latest Polymake version:
 
 1. Install Docker from the following [link](https://www.docker.com/).
 2. Make a temporary folder on your computer. 
