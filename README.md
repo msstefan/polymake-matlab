@@ -16,6 +16,7 @@ FROM archlinux
 RUN pacman -Syu --noconfirm polymake
 ```
 This should also install the latest version of Polymake inside Archlinux.
+
 4. Create the docker image using: 
 ```
 docker build -t arch-docker .
