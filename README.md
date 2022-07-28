@@ -33,7 +33,7 @@ use application "polytope";
 my $p = new Polytope(INEQUALITIES=>[[1,1,0],[1,0,1],[1,-1,0],[1,0,-1],[17,1,1]]);
 print_constraints($p->INEQUALITIES);
 ```
-Run the MATLAB command:
+Run this command in MATLAB Command Window:
 ```
 !docker run --rm -v "%cd%":/app arch-docker polymake --script /app/polymake_script.pl /app
 ```
