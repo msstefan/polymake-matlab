@@ -2,6 +2,7 @@
 
 ## About Polymake and Docker ##
 *[Polymake](https://polymake.org/doku.php) is open source software for research in polyhedral geometry. It deals with polytopes, polyhedra and fans as well as simplicial complexes, matroids, graphs, tropical hypersurfaces, and other objects. Supported platforms include various flavors of Linux, FreeBSD and Mac OS.*
+
 *[Docker](https://docs.docker.com/get-started/overview/) is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.*
 
 ## Installation ##
